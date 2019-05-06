@@ -13,3 +13,6 @@ dependencies:
 - name: php-demo02
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: php-demo03
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
